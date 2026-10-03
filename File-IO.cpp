@@ -51,4 +51,5 @@ int main() {
 	}
 	inFile.close();
 	return 0; 
-} 	
+}
+

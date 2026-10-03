@@ -62,11 +62,10 @@
 
 13. End main() 
 ```
-
 ## Pushing the Envelope
 ```
-I created a seperate file called "extrapushing.cpp" for the extra pushing beyond the basics 
-i kept this seperate so it does not change my original "File-IO.cpp". 
-I added this new feature because it will check if data.csv is avaiable before the code try to read it. If the file is missing or cannnot be opened then the program will give an error message and stops. 
-I put this feature in 'extrapushing.cpp' so it does not affect my original File-IO.cpp and it stays the same. 
+    - I created a seperate file called "extrapushing.cpp" for the extra pushing beyond the basics 
+    - I kept this seperate so it does not change my original "File-IO.cpp". 
+    - I added this new feature because it will check if data.csv is avaiable before the code try to read it. If the file is missing or cannnot be opened then the program will give an error message and stops. 
+    - I put this feature in 'extrapushing.cpp' so it does not affect my original File-IO.cpp and it stays the same. 
 ```
